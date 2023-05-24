@@ -1,2 +1,2 @@
-# go-server
+# Chirpy
 Project for boot.dev
